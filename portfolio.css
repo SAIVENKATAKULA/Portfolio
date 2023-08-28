@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: black;
+    height: 100px;
+    padding: 30px;
+}
+nav ul li{
+    display: inline;
+    padding: 20px;
+}
+h1{
+    background-color: aqua;
+}
+#Home img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+#Portfolio{
+    background-color: bisque;
+    
+    
+}
+li{
+    display: inline;
+}
+#l3 ul li{
+    display: block;
+}
+footer{
+    background-color: darkkhaki;
+}
